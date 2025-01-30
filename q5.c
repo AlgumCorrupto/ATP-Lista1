@@ -1,4 +1,10 @@
-#include <stdio.h>
+// ENUNCIADO:
+// Prepare um algoritmo para calcular o espaco percorrido 
+// por um movel em movimento retilıneo uniforme dada a
+// seguinte formula:
+// S = So + V ∗ T. 
+
+/#include <stdio.h>
 #include <stdlib.h>
 
 int main() {

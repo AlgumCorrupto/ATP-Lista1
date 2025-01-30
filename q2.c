@@ -1,3 +1,5 @@
+// ENUNCIADO:
+// Faca um programa que converta uma medida de metros para centimetros.
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,8 @@
+// ENUNCIADO
+// Leia o salario mensal atual de um funcionario e o 
+// percentual de reajuste. Calcular e escrever o valor
+// do novo salario 
+
 #include <stdio.h>
 #include <stdlib.h>
 

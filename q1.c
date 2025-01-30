@@ -1,3 +1,6 @@
+// ENUNCIADO
+// Leia um valor de temperatura em graus Celsius
+// e converta-o em graus Fahrenheit e Kelvin.
 #include <stdio.h>
 #include <stdlib.h>
 

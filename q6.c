@@ -1,3 +1,6 @@
+// ENUNCIADO:
+// Leia um nUmero inteiro e imprima o seu antecessor e o seu sucessor. 
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,7 @@
+// ENUNCIADO:
+// Dado o peso e a altura do usuario imprima seu 
+// Indice de Massa Corporal.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

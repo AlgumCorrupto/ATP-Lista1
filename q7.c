@@ -1,3 +1,7 @@
+// ENUNCIADO: 
+// Implemente um programa que le tres valores e calcule 
+// a media ponderada para pesos 1, 2 e 3, respectivamente 
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,6 @@
+// ENUNCIADO
+// Faca um Programa que peca o comprimento a largura e a altura 
+// de uma caixa d'agua retangular. Calcule e informe o volume da caixa.
 #include <stdio.h>
 #include <stdlib.h>
 
